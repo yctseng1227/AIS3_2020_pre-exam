@@ -1,0 +1,25 @@
+Foremost version 1.5.7 by Jesse Kornblum, Kris Kendall, and Nick Mikus
+Audit File
+
+Foremost started at Sat Jun 20 20:29:28 2020
+Invocation: foremost Karuego_0d9f4a9262326e0150272debfd4418aaa600ffe4.png 
+Output directory: /Users/yctseng/CTF_Workspace/ais3_2020_pre_exam/misc/Karuego - 100/output
+Configuration file: /usr/local/etc/foremost.conf
+------------------------------------------------------------------
+File: Karuego_0d9f4a9262326e0150272debfd4418aaa600ffe4.png
+Start: Sat Jun 20 20:29:28 2020
+Length: Unknown
+ 
+Num	 Name (bs=512)	       Size	 File Offset	 Comment 
+
+0:	00004022.zip 	       1 MB 	    2059568 	 
+1:	00000000.png 	       1 MB 	          0 	  (2880 x 1492)
+Finish: Sat Jun 20 20:29:28 2020
+
+2 FILES EXTRACTED
+	
+zip:= 1
+png:= 1
+------------------------------------------------------------------
+
+Foremost finished at Sat Jun 20 20:29:28 2020
